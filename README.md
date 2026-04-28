@@ -5,7 +5,7 @@ It allows users to manage member data efficiently with features like search, ima
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Add, edit, and delete members
 * Search functionality
@@ -15,7 +15,7 @@ It allows users to manage member data efficiently with features like search, ima
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * HTML
 * CSS
@@ -23,13 +23,13 @@ It allows users to manage member data efficiently with features like search, ima
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 
 ![App Screenshot](https://github.com/user-attachments/assets/3d4e84b5-4815-4968-8d0b-c46653d94035)
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 member-management-crud-app/
@@ -41,7 +41,7 @@ member-management-crud-app/
 
 ---
 
-## ⚙️ How to Run
+##  How to Run
 
 1. Clone the repository
 
@@ -53,7 +53,7 @@ member-management-crud-app/
 
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 
 * Add user authentication
 * Connect to backend/database
@@ -62,7 +62,7 @@ member-management-crud-app/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Nikhil Tc**
 GitHub: https://github.com/nikhilc65-star
