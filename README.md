@@ -25,7 +25,8 @@ It allows users to manage member data efficiently with features like search, ima
 
 ## 📸 Screenshot
 
-![App Screenshot](https://github.com/user-attachments/assets/232df33e-bee9-4ff9-ae91-18deba73551a)
+![App Screenshot](<img width="1920" height="980" alt="Screenshot (375)" src="https://github.com/user-attachments/assets/3d4e84b5-4815-4968-8d0b-c46653d94035" />
+)
 
 ---
 
