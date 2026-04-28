@@ -1,14 +1,68 @@
 # Member Management CRUD App
 
-A simple CRUD web application built using HTML, CSS, and JavaScript.
+A simple and interactive **CRUD (Create, Read, Update, Delete)** web application built using HTML, CSS, and JavaScript.
+It allows users to manage member data efficiently with features like search, image upload, and local data storage.
 
-## Features
-- Add, edit, delete members
-- Search functionality
-- Image upload support
-- Data stored using LocalStorage
+---
 
-## Tech Stack
-- HTML
-- CSS
-- JavaScript
+## 🚀 Features
+
+* Add, edit, and delete members
+* Search functionality
+* Image upload support
+* Data stored using LocalStorage
+* Clean and responsive UI
+
+---
+
+## 🛠️ Tech Stack
+
+* HTML
+* CSS
+* JavaScript
+
+---
+
+## 📸 Screenshot
+
+![App Screenshot](https://github.com/user-attachments/assets/232df33e-bee9-4ff9-ae91-18deba73551a)
+
+---
+
+## 📂 Project Structure
+
+```
+member-management-crud-app/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+```
+
+---
+
+## ⚙️ How to Run
+
+1. Clone the repository
+
+   ```bash
+   git clone https://github.com/your-username/member-management-crud-app.git
+   ```
+2. Open `index.html` in your browser
+3. Start using the app
+
+---
+
+## 💡 Future Improvements
+
+* Add user authentication
+* Connect to backend/database
+* Improve UI/UX
+* Add sorting and filters
+
+---
+
+## 👨‍💻 Author
+
+**Nikhil Tc**
+GitHub: https://github.com/nikhilc65-star
