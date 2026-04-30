@@ -10,7 +10,6 @@ const photo = document.getElementById('photo');
 let members = JSON.parse(localStorage.getItem('members')) || [];
 let editIndex = null;
 
-// RENDER TABLE (READ)
 function renderTable() {
   const search = document.getElementById('search').value.toLowerCase();
   tableBody.innerHTML = '';
@@ -40,7 +39,7 @@ function renderTable() {
     });
 }
 
-// CREATE + UPDATE
+
 form.addEventListener('submit', function(e) {
   e.preventDefault();
 
@@ -60,7 +59,6 @@ form.addEventListener('submit', function(e) {
   }
 });
 
-// SAVE FUNCTION
 function saveMember(photoData) {
   const member = {
     first_name: first_name.value,
@@ -82,7 +80,7 @@ function saveMember(photoData) {
   renderTable();
 }
 
-// EDIT
+
 function editMember(index) {
   const m = members[index];
   first_name.value = m.first_name;
@@ -92,12 +90,11 @@ function editMember(index) {
   editIndex = index;
 }
 
-// DELETE
+
 function deleteMember(index) {
   members.splice(index, 1);
   localStorage.setItem('members', JSON.stringify(members));
   renderTable();
 }
 
-// INITIAL LOAD
 renderTable();
