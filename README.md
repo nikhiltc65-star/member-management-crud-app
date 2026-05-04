@@ -39,20 +39,6 @@ member-management-crud-app/
 │── style.css
 │── script.js
 │── README.md
-```
-
----
-
-##  How to Run
-
-1. Clone the repository
-
-   ```bash
-   git clone https://github.com/your-username/member-management-crud-app.git
-   ```
-2. Open `index.html` in your browser
-3. Start using the app
-
 ---
 
 ## Future Improvements
