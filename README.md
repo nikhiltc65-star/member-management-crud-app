@@ -1,6 +1,6 @@
 # Member Management CRUD App
 
-A simple and interactive **CRUD (Create, Read, Update, Delete)** web application built using HTML, CSS, and JavaScript.
+A simple and interactive **CRUD (Create, Read, Update, Delete)** web 
 It allows users to manage member data efficiently with features like search, image upload, and local data storage.
 
 ## live project link : 
